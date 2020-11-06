@@ -1,2 +1,2 @@
-# Data-Analytics-Projects
-This Repository contains the projects given by faculty for Data Analytics course in IIIT_DHARWAD 
+# PCA-IPL_2019 
+This Repository contains analysis of various batsmen and bowlers performance in IPL-2019 
